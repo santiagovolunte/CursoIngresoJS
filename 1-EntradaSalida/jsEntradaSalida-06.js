@@ -8,6 +8,7 @@ function sumar()
 	var vNumero2;
 	var vResultado;
 	
+	
 	 vNumero1=parseInt(document.getElementById("txtIdNumeroUno").value);
 	 vNumero2=parseInt(document.getElementById("txtIdNumeroDos").value);
 
