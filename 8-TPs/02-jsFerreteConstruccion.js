@@ -13,7 +13,7 @@ function Rectangulo ()
     largo=parseInt(document.getElementById("txtIdLargo").value);
     ancho=parseInt(document.getElementById("txtIdAncho").value);
     
-    resultado= (largo*ancho)*3;
+    resultado = (largo*ancho)*3;
     
     alert("Nececitas comprar "+ resultado + "m de hilos de alambre");
   
