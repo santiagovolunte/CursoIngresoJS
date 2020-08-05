@@ -13,3 +13,8 @@ function SegundosEnElAire() {
 
 }//FIN DE LA FUNCIÓN SegundosEnElAire
 
+/* let (i=0);
+while (i<=3){
+	i++;
+	alert("Ireación while");
+}*/
